@@ -13,7 +13,7 @@ A lightweight PHP utility to dynamically generate **random** or **unique UUID v4
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/Dynamic-Unique-UUID.git
+   git clone https://github.com/trinsyca/Dynamic-Unique-UUID.git
    ```
 
 2. Configure your database connection inside ``conn.php``
