@@ -1,4 +1,4 @@
-# <div align=center>🚀 Dynamic Unique UUID 🚀</div>
+# <div align=center>🚀 Dynamic UUID 🚀</div>
 
 A lightweight PHP utility to dynamically generate **random** or **unique UUID v4** values. This project ensures that generated UUIDs are both RFC 4122 compliant and unique within a specified database table.
 
